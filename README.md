@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AminnimAMoh
+- 👋 Hi, I’m Mohammad Amin Mohammadi
 - 👀 I’m interested in React.js, TypeScript, Redux.js, and Node.js
 - 🌱 I’m currently learning Redux-TupeScript
 - 💞️ I’m looking to collaborate on Reesby main project Authentication system
